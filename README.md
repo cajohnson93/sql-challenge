@@ -49,3 +49,10 @@ Once you have a complete database, perform these steps:
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
 
+## Submission
+
+* Create an image file of your ERD.
+
+* Create a `.sql` file of your table schemata.
+
+* Create a `.sql` file of your queries.
